@@ -1,0 +1,11 @@
+C:\Users\borav\Documents\Dev\C# test\bin\Debug\netcoreapp2.2\C# test.deps.json
+C:\Users\borav\Documents\Dev\C# test\bin\Debug\netcoreapp2.2\C# test.runtimeconfig.json
+C:\Users\borav\Documents\Dev\C# test\bin\Debug\netcoreapp2.2\C# test.runtimeconfig.dev.json
+C:\Users\borav\Documents\Dev\C# test\bin\Debug\netcoreapp2.2\C# test.dll
+C:\Users\borav\Documents\Dev\C# test\bin\Debug\netcoreapp2.2\C# test.pdb
+C:\Users\borav\Documents\Dev\C# test\obj\Debug\netcoreapp2.2\C# test.csprojAssemblyReference.cache
+C:\Users\borav\Documents\Dev\C# test\obj\Debug\netcoreapp2.2\C# test.csproj.CoreCompileInputs.cache
+C:\Users\borav\Documents\Dev\C# test\obj\Debug\netcoreapp2.2\C# test.AssemblyInfoInputs.cache
+C:\Users\borav\Documents\Dev\C# test\obj\Debug\netcoreapp2.2\C# test.AssemblyInfo.cs
+C:\Users\borav\Documents\Dev\C# test\obj\Debug\netcoreapp2.2\C# test.dll
+C:\Users\borav\Documents\Dev\C# test\obj\Debug\netcoreapp2.2\C# test.pdb
