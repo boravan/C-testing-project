@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace HelloWorld
 {
@@ -6,8 +7,7 @@ namespace HelloWorld
   {
     static void Main(string[] args)
     {
-      MyClass c1 = new MyClass();
-      Console.WriteLine($"Hello World ! {c1.ReturnMessage()}");
+      Console.WriteLine("hello world");
     }
   }
 }
